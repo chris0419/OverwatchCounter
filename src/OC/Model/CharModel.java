@@ -34,7 +34,7 @@ public class CharModel {
      */
      public void addCounter(CharModel character){
       disfavorList.add(character);
-}
+    }
     
     
     
